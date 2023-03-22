@@ -32,11 +32,11 @@ TERMS OF THIS AGREEMENT, PROMPTLY RETURN AND DO NOT USE THE SOFTWARE.
    Corporation ("Cyberon") grants to you a limited, non-exclusive, 
    non-transferable license under its copyright rights:
 
-    a. to use the Tools for the purpose of creating data for using Cyberon 
+    a. to use the Tools for the Purpose of creating data for using Cyberon 
        DSpotter; and
-    b. to modify the Sample Code and to use the Software to create voice  
-       recognition firmware for execution on a hardware product only for the 
-       Purpose. 
+    b. to modify, create and distribute derivative works of the Sample Code 
+       for the Purpose of interacting with Cyberon DSpotter product in 
+       binary code or source code.
 
 3. Free and Open Source Software.  Portions of the Software may be licensed 
    under free and/or open source licenses such as the GNU General Public 
@@ -62,7 +62,7 @@ TERMS OF THIS AGREEMENT, PROMPTLY RETURN AND DO NOT USE THE SOFTWARE.
           despite this limitation, decompile, translate, reverse engineer, 
           disassemble or otherwise reduce the Software to human-readable form; 
           or
-     (iv) use the Software or any Sample Code other than for the Purpose.
+     (iv) use the Software or any Sample Code other than for the Purpose highlighted in Section 2.
    You hereby covenant that you will not assert any claim that the Software, or 
    derivative works thereof created by or for Cyberon, infringe any 
    intellectual property right owned or controlled by you.
