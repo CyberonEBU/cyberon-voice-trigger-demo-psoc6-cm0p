@@ -14,7 +14,7 @@ TERMS OF THIS AGREEMENT, PROMPTLY RETURN AND DO NOT USE THE SOFTWARE.
     "Source Code" means software in human-readable form, including but not 
     limited to the Sample Code.
 
-    "Sample Code" means the human-readable soure code provided in this Software 
+    "Sample Code" means the human-readable source code provided in this Software 
     to demonstrate how to use Cyberon DSpotter APIs to implement an application.
 
     "Binary Code" means the software in binary code form such as object code or 
@@ -35,7 +35,7 @@ TERMS OF THIS AGREEMENT, PROMPTLY RETURN AND DO NOT USE THE SOFTWARE.
     a. to use the Tools for the Purpose of creating data for using Cyberon 
        DSpotter; and
     b. to modify, create and distribute derivative works of the Sample Code 
-       for the Purpose of interacting with Cyberon DSpotter product in 
+       for the Purpose by interacting with Cyberon DSpotter product in 
        binary code or source code.
 
 3. Free and Open Source Software.  Portions of the Software may be licensed 
@@ -62,7 +62,7 @@ TERMS OF THIS AGREEMENT, PROMPTLY RETURN AND DO NOT USE THE SOFTWARE.
           despite this limitation, decompile, translate, reverse engineer, 
           disassemble or otherwise reduce the Software to human-readable form; 
           or
-     (iv) use the Software or any Sample Code other than for the Purpose highlighted in Section 2.
+     (iv) use the Software or any Sample Code other than for the Purpose.
    You hereby covenant that you will not assert any claim that the Software, or 
    derivative works thereof created by or for Cyberon, infringe any 
    intellectual property right owned or controlled by you.
