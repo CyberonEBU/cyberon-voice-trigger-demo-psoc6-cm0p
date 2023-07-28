@@ -29,6 +29,8 @@ Install a terminal emulator if you don't have one. Instructions in this document
 
 Go to [Cyberon DSpotter License for Infineon Platform](https://license.cyberon.tw/InfineonDSpotterLicense/InfineonDSpotterLicense.php) to obtain a license file for the Cyberon keyword detection engine. The chipset ID can be accessed by executing the demo package.
 
+**Note:** Each chipset ID has a limit of obtaining license file 10 times at most.
+
 ## Using the Demo Package
 
 ### In Eclipse IDE for ModusToolbox:
