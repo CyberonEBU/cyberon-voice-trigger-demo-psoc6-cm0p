@@ -108,7 +108,7 @@ void cyberon_asr_process(short *lpsSample, int nNumSample)
 		nCommandID = DSpotter_GetResult(g_hDSpotter);
 		DSpotter_GetResultScore(g_hDSpotter, &nConfidenceScore, NULL, NULL);
 		nVolumeEnergy = DSpotter_GetCmdEnergy(g_hDSpotter);
-		CybModelGetCommandInfo(g_hCybModel, 0, nCommandID, pchCommand, 64, &nMapID, NULL);
+		CybModelGetCommandInfo(g_hCybModel, 0, nCommandID, pchCommand, 64, &nMapID);
 		DSpotter_Continue(g_hDSpotter);
 
 #if NOT_SHOW_MULTI_PRONUNCIATION
